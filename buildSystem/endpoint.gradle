@@ -1,0 +1,5 @@
+ext {
+    endpoints = [
+            stock_url_endpoint = "\"https://www.alphavantage.co/query",
+    ]
+}
